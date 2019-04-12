@@ -73,7 +73,6 @@ C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\Antlr3.R
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.csprojAssemblyReference.cache
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.csproj.CopyComplete
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.dll
@@ -82,3 +81,4 @@ C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFr
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.SqlServer.dll
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.xml
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.csprojAssemblyReference.cache
