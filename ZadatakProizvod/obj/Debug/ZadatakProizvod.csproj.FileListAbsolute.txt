@@ -78,3 +78,7 @@ C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\Za
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.csproj.CopyComplete
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.dll
 C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\obj\Debug\ZadatakProizvod.pdb
+C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.dll
+C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.xml
+C:\Users\Stefan\Desktop\Project\Git\ZadatakProizvod\ZadatakProizvod\bin\EntityFramework.SqlServer.xml
